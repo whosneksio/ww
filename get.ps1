@@ -4,7 +4,7 @@
 # @timas130 for adding CN server support
 # @mei.yue on Discord for helping us debug OneDrive issues.
 
-# Found on uwatracker.com
+# Found on wuwatracker.com
 # Arranged for Changli by @whosneksio
 
 # Extracts Wuthering Waves CN, Global Convene URL including for EGS version.
